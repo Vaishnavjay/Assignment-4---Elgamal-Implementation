@@ -1,5 +1,9 @@
 # Assignment-4---Elgamal-Implementation
 
+Name - Vaishnav J
+Roll number - EE20M544
+Email - vaishnavjrm@gmail.com
+
 The program expects an input file, message.txt, which contains the message (or plain text). Please download & keep this file, in the same folder which contains the code or executable.
 Cipher text (C1 and C2) and the decrypted message will be displayed in the console.
 
