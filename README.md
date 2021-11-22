@@ -9,8 +9,9 @@ Cipher text (C1 and C2) and the decrypted message will be displayed in the conso
 
 Steps for C code compilation :
 1. Download main.c
-2. Open the file in an IDE - Codeblocks or Visual Studio. (Further steps are put for Codeblocks)
-3. Click on "Build" in the menu bar and select "Build and Run" from the options.
+2. Download message.txt and keep it in same folder as main.c
+3. Open the C code in an IDE - Codeblocks or Visual Studio. (Further steps are put for Codeblocks)
+4. Click on "Build" in the menu bar and select "Build and Run" from the options.
 
 The executable (.exe) can be downloaded and directly run on a Windows machine.
 
