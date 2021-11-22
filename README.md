@@ -14,6 +14,6 @@ Steps for C code compilation :
 
 The executable (.exe) can be downloaded and directly run on a Windows machine.
 
-the output snapshot for the program is shown below :
+The output snapshot for the program is shown below :
 ![image](https://user-images.githubusercontent.com/17180872/142899596-625988dd-75f5-455e-b732-7fe40d3c6a38.png)
 
